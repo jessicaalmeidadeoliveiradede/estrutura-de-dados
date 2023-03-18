@@ -1,0 +1,3 @@
+PS D:\estrutura de dados\projeto fila> 6
+6
+PS D:\estrutura de dados\projeto fila> 
